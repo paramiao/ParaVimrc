@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/km/scrm_project/.git'
+let g:netrw_dirhist_2='/home/km/scrm_project/.git/branches'
+let g:netrw_dirhist_3='/home/km/scrm_project/.git'
+let g:netrw_dirhist_4='/home/km/projects/wechat/Function'
+let g:netrw_dirhist_5='/data1/km/wechat/wechatImport/templates'
+let g:netrw_dirhist_6='/data1/km/emailPair/utils/mkl_files'
+let g:netrw_dirhist_7='/Users/kongmiao/Documents'
