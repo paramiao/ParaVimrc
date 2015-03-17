@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/data1/km/km_projects/IPHandler'
+let g:netrw_dirhist_2='/data1/km/km_projects/37degreeAdmin/templates'
+let g:netrw_dirhist_3='/data1/km/km_projects/37degreeAPIProject/sina_apis'
+let g:netrw_dirhist_4='/data1/km/km_projects/37degreeShow/parasite'
+let g:netrw_dirhist_5='/data1/km/km_projects/BigDataPairProject/BigDataPairWorker/PairUtils'
+let g:netrw_dirhist_6='/data1/km/km_projects/cv_web/cvdemo'
+let g:netrw_dirhist_7='/data1/km/km_projects/su8Project/parasite/templates'
+let g:netrw_dirhist_8='/data1/km/km_projects/37degree_helper/data_service'
